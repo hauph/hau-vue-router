@@ -1,2 +1,2 @@
 # hau-vue-router
-Test vue router on production
+Use github page to test vue router on production
